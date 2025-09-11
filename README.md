@@ -18,7 +18,7 @@ En janvier 2025, Goma a été prise par des groupes rebelles. Les banques et ins
 
 ## 👥 Réseau d'Agents
 - [Comment devenir agent](/AGENT_NETWORK/Agent_Onboarding.md)
-- [Protocole d'échange sécurisé](/AGENT_NETWORK/Exchange_Protocol.md)
+- [Protocole d'échange sécurisé](/AGENT_NETWORK/Exchange_Protocol.md)(https://github.com/AfricaWeb3Hub/bitcoin-builders-eastern-congo-Goma-Bukavu/tree/main/AGENT_NETWORK)
 
 ## 📊 Témoignages et Preuves
 - [Témoignages des bénéficiaires](/COMMUNITY/Testimonials.md)
