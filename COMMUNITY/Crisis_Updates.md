@@ -1,5 +1,5 @@
 # 📢 Updates de la Crise - Est de la RDC (Goma & Bukavu)  
-*Dernière mise à jour : [Date du jour]*  
+*Dernière mise à jour : [10 September2025]*  
 
 ---
 
@@ -28,7 +28,7 @@
 1. **Atelier d’urgence à Goma** (15 avril 2025) :  
    - 50 participants (enseignants, médecins, journalistes).  
    - Formation à Phoenix Wallet et échange cash/BTC.  
-   - [Photos](lien_vers_photos) | [Vidéo témoignage](lien_vers_vidéo).  
+   - [Photos]()https://drive.google.com/drive/folders/1Txfh4MqodvES3CYhgFQJnRMl5M_BRlxe | [Vidéo témoignage].  
 
 2. **Déploiement de agents à Bukavu** :  
    - 10 nouveaux agents formés pour le réseau d’échange.  
@@ -41,7 +41,7 @@
 ---
 
 ## 📢 Témoignages Récents  
-> *"Grâce à Bitcoin, j’ai pu envoyer de l’argent à ma famille à Kinshasa sans passer par une banque. Le réseau Lightning a fonctionné en 2 secondes !"* – **Marie, infirmière à Goma**.  
+> *"Grâce à Bitcoin, j’ai pu envoyer de l’argent à ma famille à Goma sans passer par une banque. Le réseau Lightning a fonctionné en 2 secondes !"* – **Marie, infirmière à l'hôpital général de Goma**.  
 
 > *"Je suis agent de change Bitcoin/cash. Je aide mes voisins à acheter de la nourriture malgré la fermeture des banques."* – **Paul, agent à Bukavu**.  
 
@@ -55,7 +55,7 @@
 ---
 
 ## 🎯 Prochaines Étapes  
-- Former **50 nouveaux agents** d’ici mai 2025.  
+- Former **50 nouveaux agents** d’ici octobre 2025.  
 - Lancer un **podcast quotidien** sur WhatsApp pour updates crise + Bitcoin.  
 - Équiper 10 centres locaux de **panneaux solaires** pour recharger les devices.  
 
