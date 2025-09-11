@@ -1,4 +1,4 @@
-u# 🚨 Bitcoin Emergency Response for Eastern DRC (Goma & Bukavu) 🇨🇩⚡
+# 🚨 Bitcoin Emergency Response for Eastern DRC (Goma & Bukavu) 🇨🇩⚡
 
 
 > Un projet open source pour apporter une liberté financière via Bitcoin aux populations de Goma et Bukavu (RDC) privées d'accès bancaire depuis janvier 2025..
@@ -37,8 +37,7 @@ Nous avons besoin de :
 - Email : africaweb3formation@gmail.com
 - · Telegram : https://t.me/africaweb3hub
 · WhatsApp : https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b
-· ## Twitter/X : @Kingofcongo11 | @prince_kayenga1
-Contact : <span style="color:orange;">@kingofcongo11</span>
+  Twitter/X : @Kingofcongo11| @prince_kayenga1
 
 # 🌍 Restez Informé
 
