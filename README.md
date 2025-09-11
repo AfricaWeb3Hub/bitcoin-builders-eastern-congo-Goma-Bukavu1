@@ -13,6 +13,7 @@ En janvier 2025, Goma a été prise par des groupes rebelles. Les banques et ins
 ## 📚 Guides
 - [Guide Bitcoin en français](https://github.com/AfricaWeb3Hub/bitcoin-builders-eastern-congo-Goma-Bukavu/blob/main/%C3%89ducation/FR%20bitcoin_Guide.md)(/EDUCATION/FR_Bitcoin_Guide.md)
 - [Guide Bitcoin en swahili](/EDUCATION/SW_Bitcoin_Guide.md)
+- (https://github.com/AfricaWeb3Hub/bitcoin-builders-eastern-congo-Goma-Bukavu/blob/main/EDUCATION/SW_Bitcoin_Guide.md)
 - [Tutoriel vidéo Lightning](/EDUCATION/Lightning_Demo.mp4)
 
 ## 👥 Réseau d'Agents
