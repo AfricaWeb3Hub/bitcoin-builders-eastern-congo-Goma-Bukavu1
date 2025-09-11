@@ -16,7 +16,7 @@ En janvier 2025, Goma et bukavu et d'autres villages ont été prise par des gro
 - [Guide Bitcoin en swahili](/EDUCATION/SW_Bitcoin_Guide.md)
 - (https://github.com/AfricaWeb3Hub/bitcoin-builders-eastern-congo-Goma-Bukavu/blob/main/EDUCATION/SW_Bitcoin_Guide.md)
 - [Tutoriel vidéo Lightning](/EDUCATION/Lightning_Demo.mp4)
-- Dernières formations (Google Drive) – Slides, supports et enregistrements.
+- Dernières formations (https://drive.google.com/drive/folders/1Txfh4MqodvES3CYhgFQJnRMl5M_BRlxe) – Slides, supports et enregistrements.
 
 ## 👥 Réseau d'Agents
 - [Comment devenir agent](/AGENT_NETWORK/Agent_Onboarding.md)
