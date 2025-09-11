@@ -1,2 +1,36 @@
-# bitcoin-builders-eastern-congo-Goma-Bukavu
-Bitcoin Builders – Eastern Congo Initiative Empowering conflict-affected communities in Eastern DRC with Bitcoin Lightning Network education and payment infrastructure. Open-source tools, multilingual training, and local capacity building for financial freedom.
+# Bitcoin Emergency Response for Goma 🇨🇩⚡
+
+> Un projet open source pour apporter une liberté financière via Bitcoin aux populations de Goma (RDC) privées d'accès bancaire depuis janvier 2025.
+
+## 🚨 Contexte
+En janvier 2025, Goma a été prise par des groupes rebelles. Les banques et institutions financières ont fermé, privant des millions de personnes de leur argent. Ce projet utilise Bitcoin et Lightning Network comme solution d'urgence.
+
+## 🎯 Objectifs
+- Éduquer les populations sur Bitcoin via des guides en français/swahili.
+- Établir un réseau d'échange Bitcoin ⇄ Cash avec des agents de terrain.
+- Documenter l'impact de Bitcoin dans une zone de crise.
+
+## 📚 Guides
+- [Guide Bitcoin en français](/EDUCATION/FR_Bitcoin_Guide.md)
+- [Guide Bitcoin en swahili](/EDUCATION/SW_Bitcoin_Guide.md)
+- [Tutoriel vidéo Lightning](/EDUCATION/Lightning_Demo.mp4)
+
+## 👥 Réseau d'Agents
+- [Comment devenir agent](/AGENT_NETWORK/Agent_Onboarding.md)
+- [Protocole d'échange sécurisé](/AGENT_NETWORK/Exchange_Protocol.md)
+
+## 📊 Témoignages et Preuves
+- [Témoignages des bénéficiaires](/COMMUNITY/Testimonials.md)
+- [Updates de la crise](/COMMUNITY/Crisis_Updates.md)
+
+## 🤝 Comment Contribuer
+Nous avons besoin de :
+- Traducteurs (français, swahili, lingala)
+- Développeurs pour outils Lightning
+- Agents de terrain à Goma
+
+## 📞 Contact
+- Site : [AfricaWeb3Hub](comimg soon)
+- Email : africaweb3formation@gmail.com
+
+# LibertéFinancière #Bitcoin #Goma #HRF
