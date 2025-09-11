@@ -37,8 +37,8 @@ Nous avons besoin de :
 - Email : africaweb3formation@gmail.com
 - · Telegram : https://t.me/africaweb3hub
 · WhatsApp : https://whatsapp.com/channel/0029VbAlF1b4NVifro5AMV3b
-  Twitter/X : @Kingofcongo11| @prince_kayenga1
-
+  Twitter/X : https://x.com/kingofcongo11
+https://x.com/prince_kayenga
 # 🌍 Restez Informé
 
 Suivez-nous sur nos réseaux pour des updates en temps réel sur la situation à Goma et Bukavu, et pour participer à nos prochaines formations.
