@@ -25,7 +25,7 @@ En janvier 2025, Goma et bukavu et d'autres villages ont été prise par des gro
 ## 📊 Témoignages et Preuves
 - [Témoignages des bénéficiaires](/COMMUNITY/Testimonials.md)
 - [Updates de la crise](/COMMUNITY/Crisis_Updates.md)
-
+(https://github.com/AfricaWeb3Hub/bitcoin-builders-eastern-congo-Goma-Bukavu/blob/main/COMMUNITY/Crisis_Updates.md)
 ## 🤝 Comment Contribuer
 Nous avons besoin de :
 - Traducteurs (français, swahili, lingala)
