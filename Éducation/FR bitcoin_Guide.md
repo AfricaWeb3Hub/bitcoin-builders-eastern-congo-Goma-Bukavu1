@@ -43,12 +43,12 @@ Bitcoin est une **cryptomonnaie décentralisée** créée en 2009. Il permet de 
 - [Nostr pour les crypto-communautés](https://nostr.com)
 - Tutoriels vidéo YouTube : “Bitcoin pour débutants”
 
-## 1. Pourquoi Bitcoin en Situation de Crise ?
+## • Pourquoi Bitcoin en Situation de Crise ?
 - Bitcoin ne peut être confisqué par personne.
 - Transférable instantanément via Internet.
 - Pas besoin de banque.
 
-## 2. Comment Commencer ?
+## • Comment Commencer ?
 ### a. Télécharger un Portefeuille
 - **Phoenix Wallet** (Android/iOS) : Simple et Lightning intégré.
 - **Blockstream Green** : Pour la sécurité maximale.
@@ -61,11 +61,11 @@ Bitcoin est une **cryptomonnaie décentralisée** créée en 2009. Il permet de 
 - Allez dans "Send" → Collez l'adresse du destinataire.
 - Confirmez le montant et envoyez.
 
-## 3. Utiliser Lightning Network pour des Paiements Rapides
+## • Utiliser Lightning Network pour des Paiements Rapides
 - Lightning permet des transactions en 2 secondes pour moins de 0,001$.
 - Exemple : Pour payer un commerçant, scannez son QR Lightning.
 
-## 4. Sécuriser Ses Fonds
+## • Sécuriser Ses Fonds
 - **Écrivez votre phrase de récupération (12 mots) sur papier**.
 - Ne la partagez avec personne.
 - Ne la stockez pas sur votre téléphone.
