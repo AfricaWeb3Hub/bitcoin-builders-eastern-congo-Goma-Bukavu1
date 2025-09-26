@@ -44,6 +44,16 @@ Bitcoin est une **cryptomonnaie décentralisée** créée en 2009. Il permet de 
 - Tutoriels vidéo YouTube : “Bitcoin pour débutants”(https://youtu.be/89L22vEl74Q?si=EN4uZsMFOpaYzB5p)
 
 ## • Pourquoi Bitcoin en Situation de Crise ?
+
+_ Bitcoin comme Outil de Survie Économique
+
+_ 1. Résistance à la Censure
+
+graph LR
+    A[Banques Fermées] --> B[Économie Paralysée]
+    C[Bitcoin] --> D[Transactions P2P]
+    D --> E[Accès Économique Préservé]
+
 - Bitcoin ne peut être confisqué par personne.
 - Transférable instantanément via Internet.
 - Pas besoin de banque.
