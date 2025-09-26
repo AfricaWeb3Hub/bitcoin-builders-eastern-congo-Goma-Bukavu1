@@ -47,13 +47,7 @@ Bitcoin est une **cryptomonnaie décentralisée** créée en 2009. Il permet de 
 
 _ Bitcoin comme Outil de Survie Économique
 
-_ 1. Résistance à la Censure
-
-graph LR
-    A[Banques Fermées] --> B[Économie Paralysée]
-    C[Bitcoin] --> D[Transactions P2P]
-    D --> E[Accès Économique Préservé]
-
+_ Résistance à la Censure
 - Bitcoin ne peut être confisqué par personne.
 - Transférable instantanément via Internet.
 - Pas besoin de banque.
