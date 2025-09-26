@@ -41,7 +41,7 @@ Bitcoin est une **cryptomonnaie décentralisée** créée en 2009. Il permet de 
 ## Ressources et lectures supplémentaires
 - [Bitcoin.org](https://bitcoin.org)
 - [Nostr pour les crypto-communautés](https://nostr.com)
-- Tutoriels vidéo YouTube : “Bitcoin pour débutants”
+- Tutoriels vidéo YouTube : “Bitcoin pour débutants”(https://youtu.be/89L22vEl74Q?si=EN4uZsMFOpaYzB5p)
 
 ## • Pourquoi Bitcoin en Situation de Crise ?
 - Bitcoin ne peut être confisqué par personne.
